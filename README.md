@@ -2,9 +2,8 @@
 # Grid Game
 
 ## Overview
-Welcome to the Grid Game project! This game uses a two-dimensional grid to create an engaging and interactive Sudoku experience. The game is implemented in C and uses the ncurses library for terminal-based graphics. The primary goal is to fill the grid following Sudoku r
-
-## Features
+Welcome to the Grid Game project! This game uses a two-dimensional grid to create an engaging and interactive Sudoku experience. The game is implemented in C and uses the ncurses library for terminal-based graphics. The primary goal is to fill t
+## Feat
 - A playable Sudoku game with a 9x9 grid.
 - Pre-filled numbers and hints to assist the player.
 - Input validation to ensure correct and intuitive gameplay.
